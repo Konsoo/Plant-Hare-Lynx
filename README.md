@@ -17,4 +17,4 @@ b2 = birth rate of hares
 d1 = per capita death rate of hare(hervivore)
 d2 = per capita death rate of carnivore (lynw)
 In natural systems, there are always variables that fluctuate due to predation, weather, disturbances, etc, reason why this parametes can be change to simulate and mimic what realistically happen 
-![image](https://github.com/Konsoo/Plant-Hare-Lynx/assets/133098394/6617982b-74e8-40ca-830a-66aaa136a03b)
+
