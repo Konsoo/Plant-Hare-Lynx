@@ -1,6 +1,8 @@
 # Plant-Hare-Lynx
 This is an assignemnt for the skill course Bioinformatics Skills (2223-SKI2102) at Maastricht University by Carolina Bustillos and Konstantin Waldek.
 It will consdier several population model based on three species.
+
+
 **TASK 1
 
 The model describes a 3-species food chain model: a plant, a hare and a lyns. For the herbivore and predator, we assume that the per capita birth rate is proportional to the amount of food consumed (for both hervivores and carnivores) and that the per capita death rate is a constant. These are parameters that can be modified. The dynamic of these interactions can be mathematically represented as following: 
