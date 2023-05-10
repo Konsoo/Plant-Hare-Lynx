@@ -18,3 +18,10 @@ d1 = per capita death rate of hare(hervivore)
 d2 = per capita death rate of carnivore (lynw)
 In natural systems, there are always variables that fluctuate due to predation, weather, disturbances, etc, reason why this parametes can be change to simulate and mimic what realistically happen 
 
+**Description of scenarios
+
+SCENARIO 1
+
+SCENARIO 2
+
+SCENARIO 3
