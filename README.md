@@ -22,6 +22,14 @@ In natural systems, there are always variables that fluctuate due to predation, 
 
 SCENARIO 1
 
+
+
 SCENARIO 2
 
+
+
 SCENARIO 3
+For scenario 2 there is a peak for all the species at first, but mostly for the Hares population.Over time, the lynx population decreases exponentatially, reaching 0 individuals by the 30th month. Meanwhile, the Hare and the plants population oscilates in a steady state while slowly decreasing. However, the Hare populations always remains higher thant those of the plants. This model was achieved by decreasing the death rate of the lynx but also decreasing the death rate of the hares. A reason why the Hare population didn't go to extinction while the Lynx population did when decreasing both death rates might be due to Hares bigger resilience to disturbances. For instance if there is a catastrophy, maybe is easier for the Hares to reproduce again because of the high amount of offsprings that we have. 
+
+
+
