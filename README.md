@@ -3,7 +3,7 @@ This is an assignemnt for the skill course Bioinformatics Skills (2223-SKI2102) 
 It will consdier several population model based on three species.
 
 
-**TASK 1
+**TASK 1. Describe in your own words (max 300 words) the model and model parameters: How do the populations of the three species change in the model? What do the parameters represent? Add some documentation to the Matlab file of the model. Check section 5.1 in the Modeling Life bookLinks to an external site. on three-species models.
 
 The model describes a 3-species food chain model: a plant, a hare and a lyns. For the herbivore and predator, we assume that the per capita birth rate is proportional to the amount of food consumed (for both hervivores and carnivores) and that the per capita death rate is a constant. These are parameters that can be modified. The dynamic of these interactions can be mathematically represented as following: 
 dydt(1) = y(1)*(1-y(1)) - ((a1*y(1))/(1+b1*y(1)))*y(2); 
