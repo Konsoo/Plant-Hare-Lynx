@@ -10,7 +10,7 @@ dydt(1) = y(1)*(1-y(1)) - ((a1*y(1))/(1+b1*y(1)))*y(2);
 dydt(2) = ((a1*y(1))/(1+b1*y(1)))*y(2)-d1*y(2)-(a2*y(2)/(1+b2*y(2)))*y(3);
 dydt(3) = (a2*y(2)/(1+b2*y(2)))*y(3) - d2*y(3);
 Were, y(1)= plant mass, y(2)=number of hares, y(3)=number of herbivores. To have a notion of how the population changes due to natural factors, the following represent the modifiable parameters
-br/
+n\
 a1 = how quickly plants gets eaten
 b1 = growth rate of plants
 a2 = how quickly hare gets eaten
