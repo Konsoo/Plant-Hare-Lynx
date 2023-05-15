@@ -15,8 +15,8 @@ y0 = [0.7  0.4  0.6]; %initial pop of plant, hare, lynx
 figure("Name",'PLants-Hare-Lynx')
 plot(t,y)
 title('Plants/Hare/Lynx Populations Over Time')
-xlabel('Population')
-ylabel('Time')
+xlabel('Time')
+ylabel('Population')
 
 legend('Plants','Hare','Lynx')
 figure("Name",'State space')
