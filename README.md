@@ -17,7 +17,8 @@ a2 = how quickly hare gets eaten\
 b2 = birth rate of hares\
 d1 = per capita death rate of hare(hervivore)\
 d2 = per capita death rate of carnivore (lynw)\
-In natural systems, there are always variables that fluctuate due to predation, weather, disturbances, etc, reason why this parametes can be change to simulate and mimic what realistically happen 
+In natural systems, there are always variables that fluctuate due to predation, weather, disturbances, etc, reason why this parametes can be change to simulate and mimic what realistically happen.\
+In order to tun each scneario download the according .m file and open it in MATLAB.
 
 **Description of scenarios
 
