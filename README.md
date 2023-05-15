@@ -24,7 +24,7 @@ In order to tun each scneario download the according .m file and open it in MATL
 
 SCENARIO 1
 
-
+As we can see in scenario 1 we have a steady osclation for all three population for every 20 months. The hare puplation peaks first at around 1.1 and falls of to 0.004. The lynx population rises a bit slower and peaks at 0.8 and falls of to 0.5 after 20.5 months. On the contrary, the plant populatin falls imdeiatly to zero but recoveres after 13 months and peaks at 0.8 and falls again afterwards. Overall this pattern repeats, howver it is to note that the hare popualtion decrease slighlty each cycle.
 
 
 SCENARIO 2
