@@ -29,6 +29,9 @@ As we can see in scenario 1 we have a steady osclation for all three population 
 
 SCENARIO 2
 
+In scenario 2 we have a ireggularly increasing lynx population which peaks at 10.7 after 102 monts and falls off to 8 after 50 further months. Afterwards it pekas again after 200 months. On the other hand the plant and hare population oscilate for four cycles within 70 months between 0 and 1 for the plants and 0 and 0.4 fir the hare population at the opssite time. After these oscilations there is no oscilaötion for 80 months. Afterwards there are two more oscialtions with a little diffrent oscilation within exatly 20 months.
+In the sate space we can see an upwards spiraling pouplation which falls down to the beging. It could aslo be interpreted as a 3d strucutre such as a vase.
+
 
 
 SCENARIO 3
