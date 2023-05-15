@@ -16,14 +16,14 @@ y0=[.8 0.10 7.5];
 figure("Name",'PLants-Hare-Lynx')
 plot(t,y)
 title('Plants/Hare/Lynx Populations Over Time')
-xlabel('Population')
-ylabel('Time')
+xlabel('Time')
+ylabel('Population')
 
 legend('Plants','Hare','Lynx')
 figure("Name",'State space')
 plot3(y(:,1),y(:,2),y(:,3))
 title('State space')
-xlabel('PLants Population')
+xlabel('Plants Population')
 ylabel('Hare Population')
 zlabel('Lynx Population')
 
